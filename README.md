@@ -1,7 +1,7 @@
 # IOS-inclass
 
 
-## 2018-03-26 Mon.
+### 2018-03-26 Mon.
 
   extension
     (ex: 5.arc4random)
