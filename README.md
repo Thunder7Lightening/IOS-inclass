@@ -9,4 +9,9 @@
 
   struct
     change Concentration class to struct and build
-    you’ll see fault in choose()
+    choose() Error!!
+    
+  hashable
+    emojiDic[Int: String]() -> emoji[Card: String]() Error!!
+    
+  enum
